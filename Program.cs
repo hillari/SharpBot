@@ -18,7 +18,7 @@ public class Program
 
     //  You can assign your bot token to a string, and pass that in to connect.
     //  This is, however, insecure, particularly if you plan to have your code hosted in a public repository.
-    var token = "MTE0NDA2Njg1OTkxMDU4MjMwMg.Gi13dI.QhXXiCrqkN6yMh-jt7COrImX1kVm5S1AuM93Ls";
+    var token = "token";
 
     // Some alternative options would be to keep your token in an Environment Variable or a standalone file.
     // var token = Environment.GetEnvironmentVariable("NameOfYourEnvironmentVariable");
